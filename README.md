@@ -1,6 +1,8 @@
 #HR Employee Data Analysis using MySQL-PowerBI
 =======
 
+<img width="769" alt="Dashboard" src="https://github.com/user-attachments/assets/fb273208-e675-4a26-9331-ee0e30412e63">
+
 This project provides an analysis of SQL queries used to examine employee data from the HR database. The aim is to uncover insights into various aspects of the workforce, such as demographic distributions, location-based employee statistics, turnover rates, and more. By conducting Exploratory Data Analysis (EDA) and calculating relevant metrics, the project assists in informing decisions related to human resource management, workforce planning, and diversity initiatives.
 
 ### Objectives:
@@ -13,8 +15,8 @@ This project provides an analysis of SQL queries used to examine employee data f
 ## Data Source
 =======
 - **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
--**Data Cleaning & Analysis** - MySQL Workbench
--**Data Visualization** - PowerBI
+- **Data Cleaning & Analysis** - MySQL Workbench
+- **Data Visualization** - PowerBI
 
 The dataset used in this analysis is the `HR` table, which contains employee information such as:
 - `emp_id`: Unique identifier for each employee.
@@ -39,11 +41,6 @@ Before conducting the analysis, several data cleaning steps were performed:
 ### Key Cleaning Operations:
 - **Replacing invalid date formats** in the `birthdate`, `termdate` and `hire_date` columns.
 - **Ensuring age values are accurate** and reflect real-world employee ages.
-
-### Data Visualization
-=======
-<img width="769" alt="Dashboard" src="https://github.com/user-attachments/assets/fb273208-e675-4a26-9331-ee0e30412e63">
-
 
 ## Exploratory Data Analysis (EDA)
 =======
