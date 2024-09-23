@@ -6,7 +6,8 @@ This repository contains a series of SQL projects focusing on real-world dataset
 
 1. [HR Employee Analysis](#1-hr-employee-analysis)
 
-## 1. HR Employee Analysis
+## 1. [HR Employee Analysis](https://github.com/Mvrshaa/SQL-Projects/tree/main/HR-SQL-PowerBI)
+
 
 ### Overview
 This project provides an analysis of employee data from a Human Resources (HR) database. It focuses on various metrics such as employee demographics, job titles, location, tenure, and turnover rates. SQL queries and Power BI visualizations are used to present actionable insights for workforce planning, diversity, and retention strategies.
