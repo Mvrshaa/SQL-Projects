@@ -13,7 +13,7 @@ This repository contains a series of SQL projects focusing on real-world dataset
 This project provides an analysis of employee data from a Human Resources (HR) database. It focuses on various metrics such as employee demographics, job titles, location, tenure, and turnover rates. SQL queries and Power BI visualizations are used to present actionable insights for workforce planning, diversity, and retention strategies.
 
 ### Data Source:
-[HR Employee Dataset](https://example.com/hr-dataset) 
+[HR Employee Dataset](https://data.world/mesum/rwfd-curated/workspace/file?filename=Human+Resources.csv) 
 
 ### Key Concepts:
 - **Data Cleaning**: Removal of records with invalid ages (e.g., negative values).
@@ -23,7 +23,7 @@ This project provides an analysis of employee data from a Human Resources (HR) d
 
 ### Tools Used:
 - MySQL
-- [Power BI](https://powerbi-link-here) for data visualization 
+- [Power BI](https://github.com/Mvrshaa/SQL-Projects/blob/main/HR-SQL-PowerBI/HR_Employee_Dashboard.pbix) for data visualization 
 
 
 ### Insights:
