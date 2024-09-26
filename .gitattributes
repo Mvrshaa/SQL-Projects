@@ -1,0 +1,4 @@
+#Specify language for files 
+
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
