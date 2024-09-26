@@ -19,7 +19,7 @@ This project provides an analysis of employee data from a Human Resources (HR) d
 - **Data Cleaning**: Removal of records with invalid ages (e.g., negative values).
 - **Data Filtering**: Only employees aged 18 and above were considered.
 - **Termination Dates**: Excluded future termination dates from analysis.
-- **SQL Techniques**: GROUP BY, ORDERBY, CASE statements.
+- **SQL Techniques**: GROUP BY, ORDER BY, CASE statements.
 
 ### Tools Used:
 - MySQL
